@@ -10,9 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class MySQLTestTest {
+class MySQLTest {
     private Connection connection;
     private Statement dbStatement;
 
